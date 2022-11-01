@@ -1,0 +1,411 @@
+[
+    {
+      "id": 1,
+      "title": "Sleeveless Shirt",
+      "price": 76.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/Im1.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 2,
+      "title": "Tunic Shirt",
+      "price": 46.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im2.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 3,
+      "title": "V-neck Top",
+      "price": 66.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im3.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 4,
+      "title": "Midi Dress",
+      "price": 88.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds2.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 5,
+      "title": " Off the Shoulder",
+      "price": 98.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds4.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 6,
+      "title": "Turtleneck Top",
+      "price": 78.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im4.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 7,
+      "title": "Kotty",
+      "price": 58.95,
+  
+      "category": "Jeans",
+      "image": "/Products/im5.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 8,
+      "title": "SASSAFRAS Jeans",
+      "price": 38.95,
+  
+      "category": "Jeans",
+      "image": "/Products/im6.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 9,
+      "title": "Mast & Harbour",
+      "price": 38.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im7.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 10,
+      "title": "Plaid Flannel Top",
+      "price": 58.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im8.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 11,
+      "title": "Button Down Shirt",
+      "price": 64.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im9.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 12,
+      "title": "Wrap Top",
+      "price": 44.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im10.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 13,
+      "title": "Sweatshirt",
+      "price": 74.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im11.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 14,
+      "title": "Sweat shorts ",
+      "price": 43.95,
+  
+      "category": "shorts",
+      "image": "/Products/im12.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 0,
+      "title": "Sleeve Henley shorts ",
+      "price": 63.95,
+  
+      "category": "shorts",
+      "image": "/Products/im13.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 15,
+      "title": "Boxy Top",
+      "price": 93.95,
+  
+      "category": "shorts",
+      "image": "/Products/im14.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 16,
+      "title": "Tokyo Talkies Jeans",
+      "price": 83.95,
+  
+      "category": "Jeans",
+      "image": "/Products/im19.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 17,
+      "title": "Roadster",
+      "price": 105.95,
+  
+      "category": "Jeans",
+      "image": "/Products/im16.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 18,
+      "title": "Workout Tank",
+      "price": 119.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im17.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 19,
+      "title": "Bodysuit",
+      "price": 175.95,
+  
+      "category": "Tshirt",
+      "image": "/Products/im18.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 20,
+      "title": "Shift Dress",
+      "price": 75.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds5.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 21,
+      "title": "Bodycon Dress",
+      "price": 55.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds6.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 22,
+      "title": "A-Line Dress",
+      "price": 75.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds7.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 23,
+      "title": "A-Line Dress",
+      "price": 375.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds8.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 24,
+      "title": "Maxi Dress",
+      "price": 145.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds9.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 25,
+      "title": "Wrap Dress",
+      "price": 145.95,
+  
+      "category": "Dress",
+      "image": "/Products/ds10.jpg",
+      "rating":  3.9  
+    },
+    {
+      "id": 26,
+      "title": "Women's Sleeveless Tops Latest",
+      "price": 109.95,
+  
+      "category": "new",
+      "image": "/Images/Ts_2.png",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 27,
+      "title": "Gray Shirt",
+      "price": 109.95,
+      "category": "Tshirt",
+      "image": "/Images/Ts_1.jpg",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 28,
+      "title": "Women's Plain Regular fit Top",
+      "price": 109.95,
+  
+      "category": "Tshirt",
+      "image": "/Images/Ts_3.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 29,
+      "title": "Plain T-Shirt with Short Sleeves",
+      "price": 109.95,
+  
+      "category": "Tshirt",
+      "image": "/Images/T13.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 30,
+      "title": " Tunic Top",
+      "price": 80.95,
+  
+      "category": "new",
+      "image": "/Images/Ts_5.png",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 31,
+      "title": "Womens Striped Designer ",
+      "price": 109.95,
+  
+      "category": "new",
+      "image": "/Images/Ts_6.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 32,
+      "title": " Jockey Cotton T Shirts",
+      "price": 109.95,
+  
+      "category": "Tshirt",
+      "image": "/Images/Ts_7.png",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 33,
+      "title": "Womens Minnie Mouse dress",
+      "price": 109.95,
+  
+      "category": "Dress",
+      "image": "/Images/Ts_8.png",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 34,
+      "title": "Crop Top",
+      "price": 109.95,
+  
+      "category": "new",
+      "image": "/Images/Ts_9.png",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 35,
+      "title": "Marvel Sequined T-Shirts",
+      "price": 109.95,
+  
+      "category": "new",
+      "image": "/Images/Ts_11.jpg",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 36,
+      "title": "Calvin Klein",
+      "price": 109.95,
+  
+      "category": "new",
+      "image": "/Images/T_8.jpg",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 37,
+      "title": "Gap T Shirts",
+      "price": 109.95,
+  
+      "category": "men's clothing",
+      "image": "/Images/T_5.jpg",
+      "rating":  3.9
+        
+      
+    },
+    
+    {
+      "id": 38,
+      "title": "Midi Dress",
+      "price": 109.95,
+  
+      "category": "Dress",
+      "image": "/Images/d1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 39,
+      "title": "A-Line Dress",
+      "price": 109.95,
+  
+      "category": "Dress",
+      "image": "/Images/d2.jpg",
+      "rating":  3.9
+        
+      
+    },
+    {
+      "id": 40,
+      "title": "Wrap Dress",
+      "price": 109.95,
+  
+      "category": "Dress",
+      "image": "/Images/d4.jpg",
+      "rating":  3.9
+        
+      
+    }
+ 
+   
+    
+    ]
+  
+  

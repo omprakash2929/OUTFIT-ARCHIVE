@@ -1,0 +1,489 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+:root{
+  --lg-font: 'Kaisei Tokumin', serif;
+  --sm-font: 'Poppins', sans-serif;
+  --pink: #e5345b;
+}
+
+body {
+  margin: 0;
+  font-family: var(--sm-font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:var(--lg-font);
+    
+}
+
+                                                                            /* Navbar section  */
+
+.navbar-brand{
+  position: relative;
+  left: 10rem;
+
+}
+#logo{
+  width: 3rem;
+}
+.logo-text{
+font-family: var(--sm-font);
+letter-spacing: 2px;
+font-size: 32px;
+}
+#Navbar{
+  z-index: 15;
+}
+.navbar{
+-webkit-box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.1);
+box-shadow: 0 3px 9px 3px rgba(0, 0, 0, 0.1);
+
+} 
+.nav-all{
+  margin: 0 57rem;
+  /* padding: 1rem; */
+} 
+.nav-link{
+  margin: 1px 5px;
+  font-family: var(--sm-font);
+}                                                                          
+.nav-link:hover{
+  color: var(--pink)!important;
+}
+.nav-item{
+ 
+  border-bottom: 0.5px solid rgba(0, 0, 0, 0.05);
+}
+
+                                                                              /* Hero section  */
+
+.carousel-item{
+  height: 80vh;
+  width: 100vw;
+  background: no-repeat center;
+  /* -webkit-background-size:cover; */
+  background-size: cover;
+  display: flex;
+}
+.caption{
+  z-index: 0;
+}
+/* .carousel-caption{
+  top: 19rem;
+  padding-top: 1.25rem;
+  margin-bottom: 197px;
+
+} */
+
+ .Hero-text-1{
+  display: block;
+  
+  position: absolute;
+  top: -25rem;
+  left: 28rem;
+
+}
+.Hero-text-1 h3{
+  font-size: 70px;
+  font-weight: 600;
+
+}
+.Hero-text-2{
+  display: block;
+  
+  position: absolute;
+  top: -35rem;
+  right: 5rem;
+
+}
+
+.Hero-text-2 h3{
+  font-size: 70px;
+  font-weight: 600;
+
+}
+.Hero-text-3{
+  display: block;
+  
+  position: absolute;
+  top: -30rem;
+  right: 25rem;
+}
+.Hero-text-3 h3{
+  font-size: 70px;
+  font-weight: 600;
+}
+                              /* BTN section  */
+.bg-primary{
+  background-color: var(--pink)!important;
+}
+
+.btn1{
+  background-color: #fff;
+  color: rgb(85, 85, 85);
+  padding: 10px 28px;
+  border-radius: 25px;
+  border: 1px solid rgb(85, 85, 85);
+}
+.btn1:hover{
+  background-color: var(--pink);
+  color: #fff;
+  border-color: var(--pink);
+}
+
+                                            /* Collection section  */
+
+#collection{
+  z-index: 5;
+}
+.active-filter-btn{
+    background-color: var(--pink)!important;
+    color: #fff!important;
+    border-color: var(--pink)!important;
+}
+.filter-button-group .btn1:hover{
+    color: #fff!important;
+}
+.collection-img span{
+    top: 20px;
+    right: 20px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+.Head-text {
+  border-left: 3px solid var(--pink);
+  padding: 0 3px;
+  
+  top: -2rem;
+
+}                                          
+
+.card{
+  width: 18rem;
+  
+}
+#card-items{
+
+  border: none;
+}
+#card-items span{
+  background-color: var(--pink);
+  top: 13px;
+    right: 11px;
+    width: 41px;
+    height: 41px;
+  border-radius: 50%;
+}
+/* .card img{
+  -webkit-box-shadow: -4px 1px 74px -15px rgba(3,3,3,0.36);
+-moz-box-shadow: -4px 1px 74px -15px rgba(3,3,3,0.36);
+box-shadow: -4px 1px 74px -15px rgba(3,3,3,0.36);
+} */
+
+.price{
+  font-family: var(--sm-font);
+}
+
+/* special */
+.special-img span{
+  top: 20px;
+  right: 20px;
+}
+.special-list .btn{
+  background-color: #fff;
+  color: rgb(85, 85, 85);
+  padding: 10px 28px;
+  border-radius: 25px;
+  border: 1px solid rgb(85, 85, 85);
+}
+.special-list .btn:hover{
+  background-color: var(--pink);
+  color: #fff;
+  border-color: var(--pink);
+}
+.special-img img{
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.special-img:hover img{
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.fa-heart:before{
+  color: var(--pink);
+}
+
+    /* Offer section  */
+
+#offers{
+  background: url(../public/Images/offer_img.jpg) center/cover no-repeat;
+}
+#offers .row{
+  min-height: 60vh;
+}
+.offers-content span{
+  font-size: 28px;
+}
+.offers-content h2{
+  font-size: 60px;
+  font-family: var(--lg-font);
+}
+.offers-content .btn{
+
+  background-color: #fff;
+  color: rgb(85, 85, 85);
+  padding: 10px 28px;
+  border-radius: 25px;
+  border: 1px solid rgb(85, 85, 85);
+}
+
+.offers-content .btn:hover{
+  background-color: var(--pink);
+  color: #fff;
+  border-color: var(--pink);
+}
+
+
+/* about */
+#about{
+  background-color: rgba(179, 179, 179, 0.05);
+}
+.Text-about{
+  border-left: 5px solid var(--pink);
+  padding: 6px 11px;
+}
+
+
+      /* popular-Section  */
+.Text-popular{
+  border-left: 5px solid var(--pink);
+  padding: 6px 11px;
+}
+
+/* newsletter */
+.Text-Newsletter{
+  border-left: 5px solid var(--pink);
+  padding: 6px 11px;
+}
+#newsletter{
+  background-color: rgba(179, 179, 179, 0.05);
+}
+#newsletter p{
+  max-width: 600px;
+}
+#newsletter .input-group{
+  max-width: 500px;
+}
+#newsletter .form-control{
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  padding: 11px 23px;
+}
+#newsletter .btn{
+  background-color: var(--pink);
+  color: #fff;
+  border-color: var(--pink);
+}
+#newsletter .btn:hover{
+  background-color: #000;
+  border-color: #000;
+}
+
+/* footer */
+footer .brand{
+  font-family: var(--lg-font);
+  letter-spacing: 2px;
+}
+footer a{
+  -webkit-transition: color 0.3s ease;
+  -o-transition: color 0.3s ease;
+  transition: color 0.3s ease;
+}
+footer a:hover{
+  color: var(--pink)!important;
+}
+
+/* <-------Specials Pages----------------------> */
+#special{
+  background: url(../public/Images/offer-img2.jpg) center/cover no-repeat;
+  position: relative;
+  top: -2rem;
+  
+
+}
+#special .row{
+  min-height: 60vh;
+}
+
+.offers-content{
+  position: relative;
+    right: 14rem;
+}
+.offers-content span{
+  font-size: 31px;
+  font-family: var(--sm-font);
+  font-weight: 500;
+}
+.offers-content h2{
+  font-size: 60px;
+  font-family: var(--sm-font);
+  font-weight: 600;
+}
+#special-btn{
+
+  background-color: #fff;
+  color: rgb(85, 85, 85);
+  padding: 10px 28px;
+  border-radius: 25px;
+  border: 1px solid rgb(85, 85, 85);
+}
+
+#special-btn:hover{
+  background-color: var(--pink);
+  color: #fff;
+  border-color: var(--pink);
+}
+
+/* --------------------------------------Media CSS------------------------------------------------------ */
+
+@media(max-width: 992px){
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    top: 4rem;
+    overflow: hidden;
+}
+#navbar {
+  padding-top: 0.5rem!important;
+  padding-bottom: 0.5rem!important;
+}
+.navbar-brand{
+  position: relative;
+  left: 0rem;
+
+}
+.logo-text{
+  font-family: var(--sm-font);
+  letter-spacing: 2px;
+  font-size: 19px;
+  }
+.nav-all{
+  margin: 0rem;
+} 
+.carousel{
+  height: 26rem;
+ margin: -4rem 0px;
+    z-index: -2;
+}
+.offers-content {
+  position: none; 
+   right: 0;
+}
+/* -----------------------Hero-section-media----------------------------------- */
+.Hero-text-1{
+  display: block;
+  
+  position: absolute;
+  top: 0;
+  left: 0;
+
+} 
+.Hero-text-1 h3{
+  position: relative;
+  
+  font-size: 28px;
+  font-weight: 600;
+}
+.Hero-text-2{
+  display: block;
+  
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+.Hero-text-2 h3{
+  position: relative;
+  
+  font-size: 28px;
+  font-weight: 600;
+}
+.Hero-text-3{
+  display: block;
+  
+  position: absolute;
+  top: 0;
+  right:0;
+}
+.Hero-text-3 h3{
+  position: relative;
+  
+  font-size: 28px;
+  font-weight: 600;
+}
+.carousel-inner {
+ 
+  height: 19rem;
+}
+.collection-item{
+  position: relative;
+  left: 1rem;
+  
+}
+.con-all{
+  padding: 1rem 2rem;
+}
+}
+
+@media(max-width: 412px){
+  .Hero-text-1{
+    position: relative;
+    top: -24rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .nav-all{
+    margin: 0rem;
+  } 
+  .Hero-text-2{
+    position: relative;
+    top: -24rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .Hero-text-3{
+    position: relative;
+    top: -24rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+}
+@media(max-width: 360px){
+  .Hero-text-1{
+    position: relative;
+    top: -17rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .nav-all{
+    margin: 0rem;
+  } 
+  .Hero-text-2{
+    position: relative;
+    top: -17rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .Hero-text-3{
+    position: relative;
+    top: -17rem;
+    font-size: 16px;
+    font-weight: 600;
+  }
+}

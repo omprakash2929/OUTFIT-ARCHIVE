@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Long skirt",
+        "price": 109.95,
+    
+        "category": "new",
+        "image": "/Images/special_product_1.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 2,
+        "title": "Ethnic shrug",
+        "price": 96.95,
+    
+        "category": "new",
+        "image": "/Images/special_product_2.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 3,
+        "title": "Palazzo suit",
+        "price": 86.95,
+    
+        "category": "new",
+        "image": "/Images/special_product_3.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 4,
+        "title": "Designer dupatta",
+        "price": 79.95,
+    
+        "category": "new",
+        "image": "/Images/special_product_4.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 5,
+        "title": "Anarkali suit",
+        "price": 75.95,
+    
+        "category": "new",
+        "image": "/Images/sd5.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 6,
+        "title": "Women's Sleeveless Dress Latest",
+        "price": 96.95,
+    
+        "category": "new",
+        "image": "/Images/sd9.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 7,
+        "title": "Anarkali suit",
+        "price": 86.95,
+    
+        "category": "new",
+        "image": "/Images/sd7.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 8,
+        "title": "Tops dress Latest",
+        "price": 58.95,
+    
+        "category": "new",
+        "image": "/Images/sd16.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 9,
+        "title": " Chikan",
+        "price": 76.95,
+    
+        "category": "new",
+        "image": "/Images/sd17.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 10,
+        "title": "Harem Suit",
+        "price": 89.95,
+    
+        "category": "new",
+        "image": "/Images/sd20.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 11,
+        "title": "Sharara Suit",
+        "price": 79.95,
+    
+        "category": "new",
+        "image": "/Images/sd19.jpg",
+        "rating":  3.9  
+      },
+    {
+        "id": 12,
+        "title": "Churidar Suits",
+        "price": 142.95,
+    
+        "category": "new",
+        "image": "/Images/sd6.jpg",
+        "rating":  3.9  
+      }
+]

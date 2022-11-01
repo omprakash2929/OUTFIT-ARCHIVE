@@ -1,0 +1,173 @@
+ [
+  {
+    "id": 1,
+    "title": "Women's Sleeveless Tops Latest",
+    "price": 109.95,
+
+    "category": "new",
+    "image": "/Images/Ts_2.png",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 2,
+    "title": "Gray Shirt",
+    "price": 109.95,
+    "category": "Tshirt",
+    "image": "/Images/Ts_1.jpg",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 3,
+    "title": "Women's Plain Regular fit Top",
+    "price": 109.95,
+
+    "category": "Tshirt",
+    "image": "/Images/Ts_3.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 4,
+    "title": "Plain T-Shirt with Short Sleeves",
+    "price": 109.95,
+
+    "category": "Tshirt",
+    "image": "/Images/T13.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 5,
+    "title": " Tunic Top",
+    "price": 80.95,
+
+    "category": "new",
+    "image": "/Images/Ts_5.png",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 6,
+    "title": "Womens Striped Designer ",
+    "price": 109.95,
+
+    "category": "new",
+    "image": "/Images/Ts_6.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 7,
+    "title": " Jockey Cotton T Shirts",
+    "price": 109.95,
+
+    "category": "Tshirt",
+    "image": "/Images/Ts_7.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 8,
+    "title": "Womens Minnie Mouse dress",
+    "price": 109.95,
+
+    "category": "Dress",
+    "image": "/Images/Ts_8.png",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 9,
+    "title": "Crop Top",
+    "price": 109.95,
+
+    "category": "new",
+    "image": "/Images/Ts_9.png",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 10,
+    "title": "Marvel Sequined T-Shirts",
+    "price": 109.95,
+
+    "category": "new",
+    "image": "/Images/Ts_11.jpg",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 11,
+    "title": "Calvin Klein",
+    "price": 109.95,
+
+    "category": "new",
+    "image": "/Images/T_8.jpg",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 12,
+    "title": "Gap T Shirts",
+    "price": 109.95,
+
+    "category": "men's clothing",
+    "image": "/Images/T_5.jpg",
+    "rating":  3.9
+      
+    
+  },
+  
+  {
+    "id": 15,
+    "title": "Midi Dress",
+    "price": 109.95,
+
+    "category": "Dress",
+    "image": "/Images/d1.jpg",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 16,
+    "title": "A-Line Dress",
+    "price": 109.95,
+
+    "category": "Dress",
+    "image": "/Images/d2.jpg",
+    "rating":  3.9
+      
+    
+  },
+  {
+    "id": 17,
+    "title": "Wrap Dress",
+    "price": 109.95,
+
+    "category": "Dress",
+    "image": "/Images/d4.jpg",
+    "rating":  3.9
+      
+    
+  }
+  ]
+
